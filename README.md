@@ -1,6 +1,6 @@
 # Content
 Our team spaces:
-- [Mobile APP Team](/Mobile_APP_Team/)
+- [Mobile APP Team](/docs/Mobile_APP_Team/)
 
 # About
 
