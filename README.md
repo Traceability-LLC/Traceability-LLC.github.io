@@ -1,7 +1,3 @@
-# Content
-Our team spaces:
-- [Mobile APP Team](/docs/Mobile_APP_Team/)
-
 # About
 
 Traceability-LLC is a company that develops software for the needs of colonizers who are developing human civilization on exoplanet GJ 699 b.
@@ -11,3 +7,19 @@ The company offers a wide range of products that can be adapted to the specific 
 Traceability-LLC also actively collaborates with scientific institutes and research centers to develop new technologies and improve existing ones. Their goal is to make space colonization a reality and help humanity expand its boundaries.
 
 ![image](https://github.com/Traceability-LLC/.github/assets/4077607/8aa1e40a-463d-437e-948b-ab98eca15edd)
+
+
+
+# Content
+Our team spaces:
+- [Mobile Team](/docs/Mobile_APP_Team/)
+
+Our product spaces:
+- Mobile app
+
+Our competence centers
+- SA
+- Backend
+- Frontend
+- Mobile Dev
+
